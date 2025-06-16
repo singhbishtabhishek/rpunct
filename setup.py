@@ -21,7 +21,6 @@ setup(
     description="An easy-to-use package to  restore punctuation of text.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Felflare/rpunct",
     packages=find_packages(),
     classifiers=[
         "Intended Audience :: Science/Research",
@@ -29,6 +28,6 @@ setup(
         "Programming Language :: Python :: 3",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
-    python_requires=">=3.6",
+    python_requires=">=3.7, <3.12",
     install_requires=requirements,
 )
