@@ -1,7 +1,7 @@
 langdetect
 pandas
 simpletransformers
-transformers
+transformers==4.28.1
 six
 torch
 rpunct
