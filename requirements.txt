@@ -1,5 +1,5 @@
 langdetect
 pandas
-simpletransformers==4.30.2
+simpletransformers
 six
 torch
