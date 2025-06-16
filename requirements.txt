@@ -4,5 +4,5 @@ sentence-transformers==2.2.2
 simpletransformers==0.63.9
 transformers==4.30.2
 six
-torch==2.2.2
+torch==1.13.0
 rpunct
